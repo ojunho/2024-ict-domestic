@@ -1,0 +1,19 @@
+Start testing: Jul 17 19:39 KST
+----------------------------------------------------------
+1/1 Testing: test_ATMController
+1/1 Test: test_ATMController
+Command: "/Users/ojunho/github/2024-ict-domestic/SimpleATMController/build/test_ATMController"
+Directory: /Users/ojunho/github/2024-ict-domestic/SimpleATMController/build
+"test_ATMController" start time: Jul 17 19:39 KST
+Output:
+----------------------------------------------------------
+All tests passed!
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"test_ATMController" end time: Jul 17 19:39 KST
+"test_ATMController" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 17 19:39 KST
