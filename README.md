@@ -78,7 +78,7 @@ git clone https://github.com/ojunho/2024-ict-domestic.git
 2. Navigate to the project directory:
 
 ```bash
-cd SimpleATMController
+cd 2024-ict-domestic/SimpleATMController/
 ```
 
 3. Build the project:
