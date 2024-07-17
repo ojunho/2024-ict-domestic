@@ -72,7 +72,7 @@ This project implements a simple ATM controller. It allows you to insert a card,
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/ojunho/2024-ict-domestic.git
 ```
 
 2. Navigate to the project directory:
