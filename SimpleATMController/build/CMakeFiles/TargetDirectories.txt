@@ -1,4 +1,0 @@
-/Users/ojunho/github/2024-ict-domestic/SimpleATMController/build/CMakeFiles/test_ATMController.dir
-/Users/ojunho/github/2024-ict-domestic/SimpleATMController/build/CMakeFiles/test.dir
-/Users/ojunho/github/2024-ict-domestic/SimpleATMController/build/CMakeFiles/edit_cache.dir
-/Users/ojunho/github/2024-ict-domestic/SimpleATMController/build/CMakeFiles/rebuild_cache.dir
